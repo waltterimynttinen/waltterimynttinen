@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello! 👋
 
+IT Student at Turun yliopisto - University of Turku 
+I'm currently learning about designing and building scalable web applications
+
+Skills & Experience: 
+* 🖥️ React, Svelte, JavaScript, Deno, PostgreSQL, HTML, CSS
+* 🦀 Rust
+* ♨️ Java
+* ☁️ AWS & GCP
+* 🐬 Docker
 <!--
 **waltterimynttinen/waltterimynttinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
