@@ -1,6 +1,7 @@
 ## Hello! 👋
 
 IT Student at Turun yliopisto - University of Turku 
+
 I'm currently learning about designing and building scalable web applications
 
 Skills & Experience: 
