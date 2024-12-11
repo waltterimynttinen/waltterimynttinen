@@ -2,7 +2,7 @@
 
 IT Student at Turun yliopisto - University of Turku 
 
-I'm currently learning about designing and building scalable web applications
+I'm currently learning device-agnostic design!
 
 Skills & Experience: 
 * 🖥️ React, Svelte, JavaScript, Deno, PostgreSQL, HTML, CSS
