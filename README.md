@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-Master's student in Information and Communication Technology at Turun yliopisto - University of Turku - Software Development - Data Analytics - Cloud
+I'm a master's student in Information and Communication Technology at Turun yliopisto - University of Turku - Software Development - Data Analytics - Cloud
 
 Currently working on AWS certifications and learning more about device agnostic design.
 
