@@ -11,5 +11,5 @@ Skills & Experience:
 * 🐍 Python
 * 🦀 Rust
 * ♨️ Java
-* ☁️ AWS & GCP
+* ☁️ AWS, Azure, GCP
 * 🐬 Docker
